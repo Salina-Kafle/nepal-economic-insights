@@ -1,4 +1,4 @@
-# Nepal Economic Insights
+## Nepal Economic Insights
 ## About this project
 Nepal Economic Insights is an independent research portfolio project exploring Nepal's economic growth, inflation, and dependence on remittances using publicly available data.
 The project aims to turn economic data into clear findings that can support development discussions, programme planning, and evidence-based decision-making.
